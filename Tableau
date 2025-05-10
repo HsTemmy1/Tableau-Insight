@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    .insight-container {
+        max-height: 200px;
+        overflow-y: auto;
+        padding: 10px;
+        font-family: Arial, sans-serif;
+        background-color: #e6f4fa;
+    }
+    h2 {
+        color: #090387;
+        font-size: 16px;
+    }
+    </style>
+</head>
+<body>
+    <h2>Insights</h2>
+    <div class="insight-container">
+        <p><strong>Technology Leadership:</strong> Technology is the top performer with $145K in profit and $836K in revenue, primarily driven by Phones ($330K).</p>
+        <p><strong>Furniture Profitability Challenge:</strong> Furniture generates $742K in revenue but only $18K in profit (2.4% margin), suggesting high costs or pricing issues.</p>
+        <p><strong>Regional Performance:</strong> West and East regions lead, contributing 66% of total profit ($108K and $92K, respectively), while South and Central lag.</p>
+        <p><strong>Consumer Segment Strength:</strong> The Consumer segment drives $1.16M in sales, accounting for 58% of total sales, indicating a strong B2C focus.</p>
+        <p><strong>Sales Volatility:</strong> Sales fluctuate significantly, peaking at $118K in late 2018 but dropping to $14K in mid-2014, highlighting the need for stabilization.</p>
+    </div>
+</body>
+</html>
